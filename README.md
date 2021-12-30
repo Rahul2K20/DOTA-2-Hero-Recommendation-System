@@ -1,5 +1,7 @@
 # DOTA-2 Hero-Recommendation System
 
+Developed by Rahul Nagarajan and Malemsana Thokchom
+
 This is a recommendation system for heroes in DOTA 2 (A MOBA game). Using data from a large number of DOTA 2 matches, we develop a mechanism based on association rules that suggests the most suitable heroes for composing a team. To assess the efficacy of the lineup, we trained a neural network capable of predicting the winning team with 61% accuracy.
 
 Acknowledgements
